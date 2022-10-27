@@ -1,0 +1,25 @@
+.buttonAlgo{
+    border-radius: 15px !important; 
+    width: 70px;
+}
+
+#timeQuantum{
+  width: 80px;
+}
+
+span{
+  border: 250px;
+  margin: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: whitesmoke
+  
+  
+}
+body{
+  background-color: pink
+}
+table{
+  background-color:chartreuse
+}
+
